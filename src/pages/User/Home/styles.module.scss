@@ -3,4 +3,11 @@
   overflow: auto;
   width: 100%;
   padding: 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  button {
+    width: max-content
+  }
 }
